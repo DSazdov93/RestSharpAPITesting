@@ -1,0 +1,17 @@
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\bin\Debug\netcoreapp2.2\RestSharpAPITesting.deps.json
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\bin\Debug\netcoreapp2.2\RestSharpAPITesting.runtimeconfig.json
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\bin\Debug\netcoreapp2.2\RestSharpAPITesting.runtimeconfig.dev.json
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\bin\Debug\netcoreapp2.2\RestSharpAPITesting.dll
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\obj\Debug\netcoreapp2.2\RestSharpAPITesting.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\obj\Debug\netcoreapp2.2\RestSharpAPITesting.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\obj\Debug\netcoreapp2.2\RestSharpAPITesting.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\obj\Debug\netcoreapp2.2\RestSharpAPITesting.AssemblyInfo.cs
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\bin\Debug\netcoreapp2.2\nunit.engine.dll
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\bin\Debug\netcoreapp2.2\nunit.engine.api.dll
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\bin\Debug\netcoreapp2.2\testhost.exe
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\bin\Debug\netcoreapp2.2\testhost.dll
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\bin\Debug\netcoreapp2.2\RestSharpAPITesting.pdb
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\obj\Debug\netcoreapp2.2\RestSharpAPITesting.dll
+D:\Microsoft Visual Studio 2019 Community\Solution VS\APITestingRestSharp\RestSharpAPITesting\RestSharpAPITesting\obj\Debug\netcoreapp2.2\RestSharpAPITesting.pdb
